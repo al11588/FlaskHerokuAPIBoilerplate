@@ -1,6 +1,6 @@
 # Flask, Heroku, API, Boilerplate
 
-# Introduction: 
+# Description: 
 
 I created a boilerplate code that uses Flask and an API with JavaScript that is free for people to use who want to push it on Heroku. 
 
