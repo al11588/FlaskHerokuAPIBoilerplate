@@ -1,0 +1,6 @@
+Flask==1.0.2    
+Flask-API==1.0      
+Flask-Cors==3.0.4        
+Jinja2==2.10     
+pip==10.0.1   
+requests==2.18.4    
