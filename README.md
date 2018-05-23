@@ -2,7 +2,7 @@
 
 # Introduction: 
 
-I created a boilerplate code that uses Flask and an API with JavaScript that is free for people to use who want push it on Heroku. 
+I created a boilerplate code that uses Flask and an API with JavaScript that is free for people to use who want to push it on Heroku. 
 
 
 # Programming Stack: 
