@@ -5,6 +5,9 @@
 I created a boilerplate code that uses Flask and an API with JavaScript that is free for people to use who want to push it on Heroku. 
 
 
+![Imade of website](https://raw.githubusercontent.com/al11588/FlaskHerokuAPIBoilerplate/master/image.png)
+
+
 # Programming Stack: 
 *	**Languages Used**: Python and JavaScript.
 
