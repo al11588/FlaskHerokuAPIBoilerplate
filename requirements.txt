@@ -3,7 +3,7 @@ Flask-API==1.0
 Flask-Cors==3.0.4        
 Jinja2==2.10     
 pip==10.0.1   
-requests==2.18.4    
+requests==2.20.0    
 gunicorn==19.8.1
 distribute==0.6.24
 Werkzeug==0.8.3
