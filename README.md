@@ -19,7 +19,7 @@ I created a boilerplate code that uses Flask and has an API called on by JavaScr
 
 # How To Run Locally:
 
-*	**Install**: Python 3.
+*	**Install**: Python.
 
 *	**Run**: "pip install virtualenv".
 
