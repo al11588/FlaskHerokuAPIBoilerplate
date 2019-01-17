@@ -29,4 +29,4 @@ I created a boilerplate code that uses Flask and has an API called on by JavaScr
 
 *	**Run**: "pip install -r requirements.txt".
 
-*	**Run**: "python3 manage.py".
+*	**Run**: "python manage.py".
