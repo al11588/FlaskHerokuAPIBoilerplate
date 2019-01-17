@@ -1,10 +1,10 @@
 Flask==1.0.2    
-Flask-API==1.0      
-Flask-Cors==3.0.4        
+Flask-API==1.1      
+Flask-Cors==3.0.7        
 Jinja2==2.10     
-requests==2.20.0    
+requests==2.21.0    
 gunicorn==19.8.1
 distribute==0.6.24
-Werkzeug==0.8.3
-certifi==0.0.8
-chardet==1.0.1
+Werkzeug==0.14.1
+certifi==2018.11.29
+chardet==3.0.4
